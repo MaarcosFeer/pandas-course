@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="04a9faeb-a3c8-4c0c-8ac9-8b5afee5f7f0" name="Changes" comment="" />
+    <list default="true" id="04a9faeb-a3c8-4c0c-8ac9-8b5afee5f7f0" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LoadDFFromFiles.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/LoadDFFromFiles.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +19,9 @@
         <option value="Jupyter Notebook" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
@@ -30,6 +36,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "database.data.extractors.current.export.id": "Comma-separated (CSV)_id",
+    "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -88,7 +95,7 @@
       <workItem from="1746886178994" duration="7095000" />
       <workItem from="1747072160637" duration="775000" />
       <workItem from="1747072999613" duration="163000" />
-      <workItem from="1747073208035" duration="3229000" />
+      <workItem from="1747073208035" duration="6584000" />
     </task>
     <servers />
   </component>
